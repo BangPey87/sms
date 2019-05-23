@@ -1,5 +1,5 @@
 <?php
-include 'func.php';
+include 'ZMB.php';
 /*
     https://github.com/nee48/BomSmsPhD
     Made by Handika Pratama
